@@ -1,0 +1,4 @@
+ Documentação do projeto!
+ Consiste em um site de Previsão do Tempo onde o usuário poderá ver o clima de qualquer cidade pesquisada.
+  Se a cidade não existir aparecerá uma tela de invalidação. As linguagens utilizadas foram: HTML5, CSS3 e JavaScript.
+   Também foi utilizado o consumo de uma API pública (OpenWeather). Na produção do site desenvolvemos aprendizados sobre o consumo de API.
